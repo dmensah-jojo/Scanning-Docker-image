@@ -1,4 +1,4 @@
-name: Cortex Image Scan
+name: Cortex Image Scans
 
 on:
   push:
